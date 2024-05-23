@@ -1,0 +1,14 @@
+.swiper-pagination-bullet {
+  --swiper-pagination-bullet-width: 11px;
+  --swiper-pagination-bullet-height: 11px;
+  --swiper-pagination-bullet-inactive-color: #f2f2f2;
+  --swiper-pagination-bullet-inactive-opacity: 1;
+}
+
+.swiper-pagination-bullet-active {
+  --swiper-pagination-color: #fefefe;
+  --swiper-pagination-bullet-width: 11px;
+  --swiper-pagination-bullet-height: 11px;
+  --swiper-pagination-bullet-active-opacity: 0.2;
+  border: 4px solid #818181;
+}
